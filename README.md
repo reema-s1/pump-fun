@@ -9,7 +9,7 @@
 - [Next.js](https://nextjs.org/) (Frontend Framework)
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/). We recommend using an LTS (long-term-support) version, and preferably installing NodeJS via [NVM](https://github.com/nvm-sh/nvm#intro).
+- Install Nodejs LTS version
 
 ## Setting Up
 ### 1. Clone/Download the Repository
