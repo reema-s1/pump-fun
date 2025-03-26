@@ -1,4 +1,9 @@
-# fun.pump
+# fun.pump - clone
+
+
+## Why? 
+
+I took up this project to understand the basics of blockchain development, smart contracts, and decentralized applications. I learned how to write and deploy smart contracts using Solidity, interact with them using Ethers.js, and build a frontend with Next.js. This helped me grasp key concepts like contract deployment, blockchain transactions, and integrating Web3 into applications.
 
 ## Technology Stack & Tools
 
