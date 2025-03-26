@@ -34,3 +34,8 @@ If you have previously deployed you may want to append `--reset` at the end:
 
 ### 6. Start frontend
 `$ npm run dev`
+
+## To-Do List
+
+1. **Metamask Setup** - Just turn on and add `Account 0` (default for deployer in the network). [hardhat node]
+
